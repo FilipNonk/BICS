@@ -1,1 +1,2 @@
 # BICS
+Filip Nonkovic
